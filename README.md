@@ -3,7 +3,7 @@
 ## April 23rd, Sunday, 1:00-5:00pm, Hotel Sheraton Raleigh, Raleigh-NC      
 
 ### The Structural Simulation Toolkit: A high-performance parallel simulation framework ###
-### ERAS: Enabling the Integration of Real-World Intellectual Properties (IPs) in Architectural Simulators ###
+### *ERAS*: Enabling the Integration of Real-World Intellectual Properties (IPs) in Architectural Simulators ###
 
     
 ## Organizers:
