@@ -18,7 +18,7 @@ With a proliferation of custom IPs in the market, it is becoming increasingly ch
 ### Principal Investigator ### 
 **Amro Awad**  
 ### Collaborators (Sandia National Laboratories) ###
-Clayton Hughes, Gwendolyn Voskuilen, Scott Hemmert, Arun Rodrigues  
+Clayton Hughes, Gwendolyn Voskuilen, Scott Hemmert, Arun Rodrigues, Ben Feinberg
 ### Developers ###
 Shiva Kaushik Chunduru,  Shubham Nema,  Muthya Ambati,  Justin Kirschner,  Rohin Razdan,  Debpratim Adak,  Hyokeun Lee  and Amro Awad
 
