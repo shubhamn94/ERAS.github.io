@@ -27,7 +27,7 @@ Ben Feinberg
 ### Developers ###
 Shiva Kaushik Chunduru  
 Shubham Nema  
-Muthya Ambati 
+Muthya Ambati  
 Justin Kirschner  
 Rohin Razdan  
 Debpratim Adak  
