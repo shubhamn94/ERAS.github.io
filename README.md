@@ -7,7 +7,7 @@
 
     
 ## Organizers:
-Clay Hughes (Sandia National Laboratories), Gwen Voskuilen (Sandia National Laboratories), Shubham Nema (NC State University), and Shiva Kaushik Chunduru (NC State University)
+Clay Hughes (Sandia National Laboratories), Gwen Voskuilen (Sandia National Laboratories), Dr. Amro Awad (NC State University), Shubham Nema (NC State University), and Shiva Kaushik Chunduru (NC State University)
 
 
 ## Abstract
