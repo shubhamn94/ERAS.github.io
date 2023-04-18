@@ -7,17 +7,20 @@
 
     
 ## Organizers:
-Clay Hughes (Sandia National Laboratories), Gwen Voskuilen (Sandia National Laboratories), Dr. Amro Awad (NC State University), Shubham Nema (NC State University), and Shiva Kaushik Chunduru (NC State University)
+Clay Hughes (Sandia National Laboratories), Gwen Voskuilen (Sandia National Laboratories), Amro Awad (NC State University), Shubham Nema (NC State University), and Shiva Kaushik Chunduru (NC State University)
 
 
 ## Abstract
 With a proliferation of custom IPs in the market, it is becoming increasingly challenging for Architects to integrate these IPs  at system-level to evaluate their performance and drive design space exploration. Architects put in considerable effort and have to focus on low-level integration details to ensure functional correctness and performance correlation with real silicon. To mitigate this problem, we introduce a framework ERAS that provides a platform for swift integration of RTL IP models (convertible to C-description) with high-level architecture simulators such as Structural Simulation Toolkit (SST). The integration workflow automatically generates the SST wrapper component based on user description and carries necessary interfaces to ’plug’ the RTL model with the SST framework.
 
-## ERAS Principal Investigator 
-Dr. Amro Awad
+## ERAS Contributors 
 
-## Developers
-Shiva Kaushik Chunduru, Shubham Nema, Muthya Ambati, Justin Kirschner, Rohin Razdan, Debpratim Adak, Dr. Clayton Hughes, Dr. Scott Hemmert, Dr. Gwendolyn Voskuilen, Dr. Arun Rodrigues, Dr. Hyokeun Lee and Dr. Amro Awad
+### Principal Investigator ### 
+**Amro Awad**  
+### Collaborators (Sandia National Laboratories) ###
+Clayton Hughes, Gwendolyn Voskuilen, Scott Hemmert, Arun Rodrigues  
+### Developers ###
+Shiva Kaushik Chunduru,  Shubham Nema,  Muthya Ambati,  Justin Kirschner,  Rohin Razdan,  Debpratim Adak,  Hyokeun Lee  and Amro Awad
 
 ## Schedule
 
