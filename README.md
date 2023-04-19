@@ -1,6 +1,6 @@
 ![](https://github.com/shubhamn94/ERAS.github.io/blob/master/downtown-raleigh.jpg)
 
-## April 23rd, Sunday, 1:00-5:00pm, Hotel Sheraton Raleigh, Raleigh-NC      
+## April 23rd, Sunday, 1:00-5:00pm, Hotel Sheraton Raleigh, NC      
 
 ### The Structural Simulation Toolkit: A high-performance parallel simulation framework ###
 ### *ERAS*: Enabling the Integration of Real-World Intellectual Properties (IPs) in Architectural Simulators ###
